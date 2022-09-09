@@ -1,0 +1,22 @@
+.mainnav  {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+
+  .blogItem{
+    background: rgb(255, 255, 255);
+    border-radius: 12px;
+    padding: 12px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: 12px;
+  }
+
+  
+  .btn{
+    border: none;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+  }
